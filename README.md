@@ -3,3 +3,9 @@ The initial purpose of this repo is just to use the [Issues](https://github.com/
 
 # Project Board Recommendations
 After a bit of tinkering, I think the Project Board functionality works best when used with Issues (instead of the default functionality which is to create notes). 
+
+**Process**
+1. Create new Issue
+2. Assign the issue a helpful label (on the right drawer of the Create Issue page)
+3. Add the issue to the Project Board (on the right drawer of the Create Issue page)
+4. *optional but desirable* - assign the issue to somebody
